@@ -1,0 +1,92 @@
+[{
+"name" :  "Alex Schreiner ",
+"beruf" : "Hausmeister",
+"geburtsdatum" : "04. Februar 1967",
+"familienstand" : "geschieden",
+"imageName" : "hausmeister",
+"adresse" : "Hauptstr. 34, 50667 Köln",
+"contact" : "015258181"
+},
+{
+"name" :  "Michael Halter",
+"beruf" : "Lehrer",
+"geburtsdatum" : "21. August 1982",
+"familienstand" : "ledig",
+"imageName" : "lehrer",
+"adresse" : "Lustweg 4, 51469 Bergisch Gladbach",
+"contact" : "01282829292"
+},
+{
+"name" :  "Deniz Güler",
+"beruf" : "Finanzberater",
+"geburtsdatum" : "21.Juli 1989",
+"familienstand" : "verlobt",
+"imageName" : "finanzberater",
+"adresse" : "Heinrich - Heimanstr. 122, 51106 Köln",
+"contact" : "015258178"
+},
+{
+"name" :  "Maria-Luisa Edgar",
+"beruf" : "Schüler",
+"geburtsdatum" : "17. September 1995",
+"familienstand" : "ledig",
+"imageName" : "schüler",
+"adresse" : "Lehrbacherweg 98, 51469 Bergisch Gladbach",
+"contact" : "01578847514"
+},
+{
+"name" :  "Yasemin Cakmak",
+"beruf" : "Student",
+"geburtsdatum" : "27. Oktober 1992",
+"familienstand" : "verheiratet",
+"imageName" : "student",
+"adresse" : "Voersterstr. 63, 52525 Erkelenz",
+"contact" : "0163587745"
+},
+{
+"name" :  "Svenja Flamengo",
+"beruf" : "selbständige Bilanzbuchhalter",
+"geburtsdatum" : "18. November 1975",
+"familienstand" : "verheiratet",
+"imageName" : "26-0",
+"adresse" : "Lückenstr. 521, 47798 Krefeld",
+"contact" : "015247744558"
+},
+{
+"name" :  "Maria Truth",
+"beruf" : "Arzt",
+"geburtsdatum" : "25. Oktober 1979",
+"familienstand" : "ledig",
+"imageName" : "arzt",
+"adresse" : "In dem Sandberg 58, 51377 Leverkusen",
+"contact" : "0745887455"
+},
+{
+"name" :  "Mustafa Eroglu",
+"beruf" : "KFZ-Meister",
+"geburtsdatum" : "03. Mai 1981",
+"familienstand" : "geschieden",
+"imageName" : "meister",
+"adresse" : "Luxemburgerstraße 344, 51103 Köln",
+"contact" : "015257887"
+},
+{
+"name" :  "Riccardo Tamtam",
+"beruf" : "Fußball Profi",
+"geburtsdatum" : "07. Juli 1991",
+"familienstand" : "ledig",
+"imageName" : "fußball",
+"adresse" : "Michael-Leinweg 44, 47799 Krefeld",
+"contact" : "0189795547"
+},
+{
+"name" :  "Vladimir Kujtiminio",
+"beruf" : "Boxer",
+"geburtsdatum" : "02. Juni 1996",
+"familienstand" : "verlobt",
+"imageName" : "boxer",
+"adresse" : "Im Bergland 1973, 41836 Hückelhoven",
+"contact" : "041678887547"
+}
+]
+
